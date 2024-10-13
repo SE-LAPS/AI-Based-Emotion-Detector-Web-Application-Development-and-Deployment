@@ -1,4 +1,4 @@
-# 🌟 Emotion Detection Application 🌟
+# Emotion Detection Application👨‍💻
 
 ## 📊 Project Overview
 This project involves the creation of an AI-based web application that analyzes customer feedback for an e-commerce company. The application utilizes the Watson NLP library to perform emotion detection, identifying emotions such as joy, sadness, anger, and more from customer feedback text.
