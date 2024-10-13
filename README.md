@@ -21,3 +21,4 @@ The project consists of the following tasks:
 ## 📥 Installation
 To get started with the Emotion Detection Application, clone this repository to your local machine:
 
+![1_folder_structure](https://github.com/user-attachments/assets/b424d982-e263-437c-a14d-955cf8d9a89d)
